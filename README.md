@@ -1,5 +1,5 @@
-# **PIRATE TEXT ADVENTURE GAME 
-**
+# PIRATE TEXT ADVENTURE GAME 
+
 ## Overview
 -This is a simple text-based adventure game where you, a pirate, are on a quest to avenge your fallen crew. To succeed, you must explore various islands, collect important items, and face the fierce Kraken in a final battle. Be wary though—if you're not fully prepared, you may not survive the encounter!
 
@@ -28,8 +28,8 @@ When you enter a room with an item, you'll receive a message about its presence.
 get itemname
 For example, if you see a "Cutlass" nearby, you would type get Cutlass to add it to your inventory.
 
-**Fight the Kraken:
-**
+**Fight the Kraken:**
+
 Once you've collected all six items, venture to "Kraken's Lair" to face the Kraken. If you don't have all the items, the Kraken will defeat you.
 If you do have all six items, you will successfully defeat the Kraken and win the game.
 Exit the Game:
